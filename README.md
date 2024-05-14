@@ -1,7 +1,9 @@
 # 👋 Hi there (WIP)
 
 I'm Gabriel Vanz, a passionate software developer and tech enthusiast. I currently am not working in TI area </br>
-With a year and a half of experience in the field, I had the opportunity to work as a trainee at Meta IT for a year, after that, I took on the challenges of working for a start-up company in my hometown
+With a year and a half of experience in the field, I had the opportunity to work as a trainee at Meta IT for a year, after that, I took on the challenges of working for a start-up company in my hometown.
+
+Looking to develop professionally and return to the area.
 
 
 # 🚀 Expertise
